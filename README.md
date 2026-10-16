@@ -16,7 +16,7 @@ Looking for full-time roles in embedded systems, IoT and cloud from December 202
 | [Classroom occupancy dashboard](https://github.com/andresjsaco-sudo/iot-dashboard) | Edge AI person detection on Raspberry Pi 4, sent over LTE to AWS IoT Core; includes the detector code | YOLOv8 Nano, MQTT/TLS, AWS IoT Core, Next.js |
 | [Aria robotic hand](https://github.com/andresjsaco-sudo/aria-robotic-hand) | Five-finger hand teleoperated by an instrumented glove over ESP-NOW | ESP32-S3, ESP-NOW, PCA9685, I2C |
 | [ESP32 lab series](https://github.com/andresjsaco-sudo/ESP32-NodeMCU-32S) | Documented microcontroller labs: Wi-Fi, PWM, ADC, I2C, servos | ESP32, C++, Arduino Core 3.x |
-| [UrbanTrack](https://github.com/DarwinDiaz07/urbanTrack) | GPS vehicle tracking, team project; I built and deployed the cloud side | AWS EC2, RDS PostgreSQL, Node.js |
+| [UrbanTrack](https://github.com/DarwinDiaz07/urbanTrack) | GPS vehicle tracking web app with live and historical routes, deployed on AWS | AWS EC2, RDS PostgreSQL, Node.js |
 
 #### Tools I use most
 
