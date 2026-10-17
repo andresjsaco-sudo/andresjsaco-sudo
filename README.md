@@ -12,7 +12,7 @@ Looking for full-time roles in embedded systems, IoT and cloud from December 202
 
 | Project | What it is | Stack |
 |---|---|---|
-| [Corrosion detection](https://github.com/andresjsaco-sudo/Mockup-CorpoAcero-Corrosion) | IoT system that detects early corrosion on steel with a YOLOv8 segmentation model; [AWS infrastructure](https://github.com/andresjsaco-sudo/corria-infra) in CDK | YOLOv8, ONNX, AWS Lambda, S3, DynamoDB, Cognito, React |
+| [Corrosion detection](https://github.com/andresjsaco-sudo/corrosion-detection-dashboard) | IoT system that detects early corrosion on steel with a YOLOv8 segmentation model; [AWS infrastructure](https://github.com/andresjsaco-sudo/corrosion-detection-infra) in CDK | YOLOv8, ONNX, AWS Lambda, S3, DynamoDB, Cognito, React |
 | [Classroom occupancy dashboard](https://github.com/andresjsaco-sudo/iot-dashboard) | Edge AI person detection on Raspberry Pi 4, sent over LTE to AWS IoT Core; includes the detector code | YOLOv8 Nano, MQTT/TLS, AWS IoT Core, Next.js |
 | [Aria robotic hand](https://github.com/andresjsaco-sudo/aria-robotic-hand) | Five-finger hand teleoperated by an instrumented glove over ESP-NOW | ESP32-S3, ESP-NOW, PCA9685, I2C |
 | [UrbanTrack](https://github.com/DarwinDiaz07/urbanTrack) | GPS vehicle tracking web app with live and historical routes, deployed on AWS | AWS EC2, RDS PostgreSQL, Node.js |
